@@ -9,4 +9,5 @@ export const connectDatabase = async () => {
     throw new Error(error);
   }
 };
-connectDatabase();
+
+ 
